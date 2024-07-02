@@ -15,9 +15,6 @@ The root directory contains the following files and directories:
 - `img`: This folder contains all images used in the website
 - `JS`: This folder contains all script files used in the website
 
-## Customization
-
-Feel free to customize the website to suit your needs. You can edit the HTML and CSS files to change the layout and design of the site.
 
 ## Contributions
 
