@@ -1,6 +1,6 @@
 # Welcome to my website!
 
-This website is built using HTML,CSS and Javascript. It is designed to be a simple and clean. The site includes information about Health Food.
+This website is built using HTML,CSS and Javascript. It is designed to be a simple and clean. The site includes information about Healthy Food.
 
 ## Folder Structure
 
