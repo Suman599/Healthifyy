@@ -2,10 +2,6 @@
 
 This website is built using HTML,CSS and Javascript. It is designed to be a simple and clean. The site includes information about Health Food.
 
-## Getting started
-
-To view the website, simply open the `index.html` file in your web browser. The site should display correctly in any modern browser, but if you encounter any issues please let me know.
-
 ## Folder Structure
 
 The root directory contains the following files and directories:
